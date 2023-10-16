@@ -1,2 +1,2 @@
-# bootcampo-ntt
+# bootcamp-ntt
 Bootcamp de NTT sobre CSS, HTML, JavaScript avanzado y React.
